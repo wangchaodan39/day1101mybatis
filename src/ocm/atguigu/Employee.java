@@ -17,8 +17,7 @@ public class Employee  {
         this.email = email;
     }
 
-    public Employee() {
-    }
+
 
     @Override
     public String toString() {

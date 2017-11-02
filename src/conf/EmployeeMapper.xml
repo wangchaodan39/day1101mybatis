@@ -3,9 +3,25 @@
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="ocm.atguigu.dao.EmployeeMapper">
+    <!--查询-->
     <select id="getEmployee" resultType="emp">
 
         select * from tbl_employee where id = #{id}
 
     </select>
+    <!--添加-->
+    <insert id="addEmployee" useGeneratedKeys="true" keyProperty="id">
+        INSERT  INTO tbl_employee(last_name,gender,email)
+        VALUES  (#{lastname},#{gender},#{email})
+
+    </insert>
+    <!--修改-->
+     <update id="updateEmployee">
+        UPDATE  tbl_employee SET  last_name=#{lastname},email=#{email},gender=#{gender}
+        WHERE id=#{id}    </update>
+    <!--删除-->
+    <delete id="deleteEmployee">
+      DELETE  FROM tbl_employee  WHERE id=#{id}
+    </delete>
+
 </mapper>

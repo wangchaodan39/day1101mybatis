@@ -14,6 +14,28 @@ import java.io.InputStream;
 import static org.junit.Assert.*;
 
 public class MyBatisStudyTest {
+    @Test
+    public void test3()throws Exception{
+        SqlSessionFactory sqlSessionFactory = getSqlSessionFactory();
+        SqlSession sqlSession = sqlSessionFactory.openSession();
+        try{
+            EmployeeMapper mapper = sqlSession.getMapper(EmployeeMapper.class);
+            Employee employee=new Employee(null,"later","1","wangyi@163.com");
+            mapper.addEmployee(employee);
+            System.out.println(employee.getId());
+
+            sqlSession.commit();
+
+        } finally {
+
+        }
+        sqlSession.close();
+
+
+
+    }
+
+
 
     @Test
     public void test()throws Exception{

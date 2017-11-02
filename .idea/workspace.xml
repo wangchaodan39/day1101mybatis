@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07cc6a8e-f3df-4ba1-b2d4-dfa5af4e425b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/conf/manify.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/log4j.xml" afterPath="$PROJECT_DIR$/.idea/libraries/log4j.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/conf/EmployeeMapper.xml" afterPath="$PROJECT_DIR$/src/conf/EmployeeMapper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/conf/mybatis-config.xml" afterPath="$PROJECT_DIR$/src/conf/mybatis-config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ocm/atguigu/Employee.java" afterPath="$PROJECT_DIR$/src/ocm/atguigu/Employee.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../day1101mybatis/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../day1101mybatis/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../day1101mybatis/src/conf/EmployeeMapper.xml" afterPath="$PROJECT_DIR$/../day1101mybatis/src/conf/EmployeeMapper.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../day1101mybatis/src/conf/mybatis-config.xml" afterPath="$PROJECT_DIR$/../day1101mybatis/src/conf/mybatis-config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/Employee.java" afterPath="$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/Employee.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/dao/EmployeeMapper.java" afterPath="$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/dao/EmployeeMapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/test/MyBatisStudyTest.java" afterPath="$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/test/MyBatisStudyTest.java" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/../day1101mybatis/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,47 +20,54 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ocm/atguigu/Employee.java">
+        <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-              <folding />
+            <state relative-caret-position="197">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <marker date="1509603147796" expanded="false" signature="706:717" ph=" { " />
+                <marker date="1509603147796" expanded="false" signature="727:733" ph=" }" />
+                <marker date="1509603147796" expanded="false" signature="768:779" ph=" { " />
+                <marker date="1509603147796" expanded="false" signature="792:798" ph=" }" />
+                <marker date="1509603147796" expanded="false" signature="831:842" ph=" { " />
+                <marker date="1509603147796" expanded="false" signature="858:864" ph=" }" />
+                <marker date="1509603147796" expanded="false" signature="910:921" ph=" { " />
+                <marker date="1509603147796" expanded="false" signature="946:952" ph=" }" />
+                <marker date="1509603147796" expanded="false" signature="983:994" ph=" { " />
+                <marker date="1509603147796" expanded="false" signature="1008:1014" ph=" }" />
+                <marker date="1509603147796" expanded="false" signature="1056:1067" ph=" { " />
+                <marker date="1509603147796" expanded="false" signature="1088:1094" ph=" }" />
+                <marker date="1509603147796" expanded="false" signature="1124:1135" ph=" { " />
+                <marker date="1509603147796" expanded="false" signature="1148:1154" ph=" }" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mybatis-config.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/conf/mybatis-config.xml">
+      <file leaf-file-name="mybatis-config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/conf/mybatis-config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="manify.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/conf/manify.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            <state relative-caret-position="22">
+              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="EmployeeMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ocm/atguigu/dao/EmployeeMapper.java">
+        <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/dao/EmployeeMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="66">
+              <caret line="9" column="44" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="MyBatisStudy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ocm/atguigu/MyBatisStudy.java">
+        <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/MyBatisStudy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
               <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
@@ -69,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyBatisStudyTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ocm/atguigu/test/MyBatisStudyTest.java">
+      <file leaf-file-name="MyBatisStudyTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/test/MyBatisStudyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-184">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="100">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,19 +89,22 @@
         </entry>
       </file>
       <file leaf-file-name="EmployeeMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/conf/EmployeeMapper.xml">
+        <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/conf/EmployeeMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+            <state relative-caret-position="276">
+              <caret line="12" column="68" lean-forward="true" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
               <folding>
-                <marker date="1509545696391" expanded="true" signature="272:315" ph="select * fro... tbl_employee" />
+                <marker date="1509606014773" expanded="true" signature="286:329" ph="select * fro... tbl_employee" />
+                <marker date="1509606014773" expanded="true" signature="438:536" ph="INSERT INTO tbl_employee" />
+                <marker date="1509606014773" expanded="true" signature="608:710" ph="UPDATE tbl_e... " />
+                <marker date="1509606014773" expanded="true" signature="777:818" ph="DELETE FROM " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="log4j.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/conf/log4j.xml">
+        <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/conf/log4j.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -116,7 +126,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../day1101mybatis" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -126,16 +136,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ocm/atguigu/MyBatisStudy.java" />
-        <option value="$PROJECT_DIR$/src/ocm/atguigu/MyBatisStudyTest.java" />
-        <option value="$PROJECT_DIR$/src/ocm/atguigu/MyBatisStudyTestTest.java" />
-        <option value="$PROJECT_DIR$/src/EmployeeMapper.xml" />
-        <option value="$PROJECT_DIR$/src/ocm/atguigu/dao/EmployeeMapper.java" />
-        <option value="$PROJECT_DIR$/src/ocm/atguigu/test/MyBatisStudyTest.java" />
-        <option value="$PROJECT_DIR$/src/conf/manify.properties" />
-        <option value="$PROJECT_DIR$/src/conf/mybatis-config.xml" />
-        <option value="$PROJECT_DIR$/src/ocm/atguigu/Employee.java" />
-        <option value="$PROJECT_DIR$/src/conf/EmployeeMapper.xml" />
+        <option value="$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/MyBatisStudy.java" />
+        <option value="$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/MyBatisStudyTest.java" />
+        <option value="$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/MyBatisStudyTestTest.java" />
+        <option value="$PROJECT_DIR$/../day1101mybatis/src/EmployeeMapper.xml" />
+        <option value="$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/dao/EmployeeMapper.java" />
+        <option value="$PROJECT_DIR$/../day1101mybatis/src/conf/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/Employee.java" />
+        <option value="$PROJECT_DIR$/../day1101mybatis/src/conf/EmployeeMapper.xml" />
+        <option value="$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/test/MyBatisStudyTest.java" />
       </list>
     </option>
   </component>
@@ -146,7 +155,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="7" />
+    <option name="x" value="10" />
+    <option name="y" value="18" />
     <option name="width" value="1378" />
     <option name="height" value="690" />
   </component>
@@ -166,9 +176,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,13 +230,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/佟刚 Mybatis/课件&amp;代码/代码/MyBatis_01_HelloWorld/lib/mysql-connector-java-5.1.37-bin.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BaiduNetdiskDownload/尚硅谷 佟刚 Mybatis视频教程/课件&amp;代码/代码/MyBatis_01_HelloWorld/lib/mysql-connector-java-5.1.37-bin.jar!/" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="settings.editor.selected.configurable" value="GrepConsole" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -241,6 +251,121 @@
       <recent name="E:\day1101mybatis\src\conf" />
     </key>
   </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../day1101mybatis/.idea/libraries/log4j.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../day1101mybatis/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../day1101mybatis/src/conf/EmployeeMapper.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../day1101mybatis/src/conf/mybatis-config.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/Employee.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../day1101mybatis/src/conf/manify.properties</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -253,7 +378,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MyBatisStudyTest.TestInterFace">
+  <component name="RunManager" selected="JUnit.MyBatisStudyTest.test3">
     <configuration name="MyBatisStudyTest.TestInterFace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -306,6 +431,32 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="MyBatisStudyTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ocm.atguigu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="krasa.grepconsole.plugin.runConfiguration.GrepRunConfigurationExtension" selectedProfileId="0" />
+      <module name="day1101mybatis" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ocm.atguigu.test" />
+      <option name="MAIN_CLASS_NAME" value="ocm.atguigu.test.MyBatisStudyTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -319,7 +470,7 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../day1101mybatis" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -390,22 +541,21 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JUnit.MyBatisStudyTest.test" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.MyBatisStudyTest.TestInterFace" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.MyBatisStudyTest.test3" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.MyBatisStudyTest.TestInterFace" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.MyBatisStudyTest.test" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MyBatisStudyTest.test3" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.MyBatisStudyTest.TestInterFace" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.MyBatisStudyTest.test" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -415,109 +565,78 @@
       <option name="presentableId" value="Default" />
       <updated>1509512642217</updated>
       <workItem from="1509512646144" duration="2509000" />
-      <workItem from="1509517181248" duration="6511000" />
-      <workItem from="1509543397458" duration="3795000" />
+      <workItem from="1509517181248" duration="14649000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyBatisStudyTest_TestInterFace - 2017.11.01 at 21h 49m 42s.xml">
-      <configuration name="MyBatisStudyTest.TestInterFace" configurationId="JUnit" />
+    <history-entry file="MyBatisStudyTest_test3 - 2017.11.02 at 14h 07m 12s.xml">
+      <configuration name="MyBatisStudyTest.test3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyBatisStudyTest_TestInterFace - 2017.11.01 at 21h 51m 22s.xml">
-      <configuration name="MyBatisStudyTest.TestInterFace" configurationId="JUnit" />
+    <history-entry file="MyBatisStudyTest_test3 - 2017.11.02 at 14h 09m 15s.xml">
+      <configuration name="MyBatisStudyTest.test3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyBatisStudyTest_TestInterFace - 2017.11.01 at 21h 51m 43s.xml">
-      <configuration name="MyBatisStudyTest.TestInterFace" configurationId="JUnit" />
+    <history-entry file="MyBatisStudyTest_test3 - 2017.11.02 at 14h 10m 19s.xml">
+      <configuration name="MyBatisStudyTest.test3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyBatisStudyTest_TestInterFace - 2017.11.01 at 21h 55m 47s.xml">
-      <configuration name="MyBatisStudyTest.TestInterFace" configurationId="JUnit" />
+    <history-entry file="MyBatisStudyTest_test3 - 2017.11.02 at 14h 12m 37s.xml">
+      <configuration name="MyBatisStudyTest.test3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyBatisStudyTest_TestInterFace - 2017.11.01 at 22h 02m 14s.xml">
-      <configuration name="MyBatisStudyTest.TestInterFace" configurationId="JUnit" />
+    <history-entry file="MyBatisStudyTest_test3 - 2017.11.02 at 14h 13m 07s.xml">
+      <configuration name="MyBatisStudyTest.test3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyBatisStudyTest_TestInterFace - 2017.11.01 at 22h 04m 32s.xml">
-      <configuration name="MyBatisStudyTest.TestInterFace" configurationId="JUnit" />
+    <history-entry file="MyBatisStudyTest_test3 - 2017.11.02 at 14h 38m 44s.xml">
+      <configuration name="MyBatisStudyTest.test3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyBatisStudyTest_TestInterFace - 2017.11.01 at 22h 09m 46s.xml">
-      <configuration name="MyBatisStudyTest.TestInterFace" configurationId="JUnit" />
+    <history-entry file="MyBatisStudyTest_test3 - 2017.11.02 at 14h 39m 42s.xml">
+      <configuration name="MyBatisStudyTest.test3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyBatisStudyTest_TestInterFace - 2017.11.01 at 22h 10m 36s.xml">
-      <configuration name="MyBatisStudyTest.TestInterFace" configurationId="JUnit" />
+    <history-entry file="MyBatisStudyTest_test3 - 2017.11.02 at 14h 45m 58s.xml">
+      <configuration name="MyBatisStudyTest.test3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyBatisStudyTest_TestInterFace - 2017.11.01 at 22h 13m 01s.xml">
-      <configuration name="MyBatisStudyTest.TestInterFace" configurationId="JUnit" />
+    <history-entry file="MyBatisStudyTest_test3 - 2017.11.02 at 14h 47m 38s.xml">
+      <configuration name="MyBatisStudyTest.test3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyBatisStudyTest_TestInterFace - 2017.11.01 at 22h 15m 06s.xml">
-      <configuration name="MyBatisStudyTest.TestInterFace" configurationId="JUnit" />
+    <history-entry file="MyBatisStudyTest_test3 - 2017.11.02 at 15h 01m 33s.xml">
+      <configuration name="MyBatisStudyTest.test3" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12815000" />
+    <option name="totallyTimeSpent" value="17158000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.461285" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46622735" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25037935" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46217105" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42009884" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -526,128 +645,122 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new 11.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="new 11.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ocm/atguigu/test/MyBatisStudyTest.java</url>
-          <line>19</line>
+          <url>file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/test/MyBatisStudyTest.java</url>
+          <line>41</line>
           <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ocm/atguigu/test/MyBatisStudyTest.java</url>
-          <line>20</line>
+          <url>file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/test/MyBatisStudyTest.java</url>
+          <line>42</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ocm/atguigu/test/MyBatisStudyTest.java</url>
-          <line>22</line>
+          <url>file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/test/MyBatisStudyTest.java</url>
+          <line>44</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ocm/atguigu/test/MyBatisStudyTest.java</url>
-          <line>26</line>
+          <url>file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/test/MyBatisStudyTest.java</url>
+          <line>48</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ocm/atguigu/test/MyBatisStudyTest.java</url>
-          <line>27</line>
+          <url>file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/test/MyBatisStudyTest.java</url>
+          <line>49</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ocm/atguigu/test/MyBatisStudyTest.java</url>
-          <line>28</line>
+          <url>file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/test/MyBatisStudyTest.java</url>
+          <line>50</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ocm/atguigu/test/MyBatisStudyTest.java</url>
-          <line>24</line>
+          <url>file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/test/MyBatisStudyTest.java</url>
+          <line>46</line>
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/test/MyBatisStudyTest.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/Employee.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/Employee.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/Employee.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/Employee.java</url>
+          <line>12</line>
+          <properties class="ocm.atguigu.Employee" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/test/MyBatisStudyTest.java</url>
+          <line>17</line>
+          <properties class="ocm.atguigu.test.MyBatisStudyTest" method="test3">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="23" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ocm/atguigu/Employee.java">
+    <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="79" lean-forward="false" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocm/atguigu/dao/EmployeeMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocm/atguigu/MyBatisStudy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocm/atguigu/test/MyBatisStudyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1509603147796" expanded="false" signature="706:717" ph=" { " />
+            <marker date="1509603147796" expanded="false" signature="727:733" ph=" }" />
+            <marker date="1509603147796" expanded="false" signature="768:779" ph=" { " />
+            <marker date="1509603147796" expanded="false" signature="792:798" ph=" }" />
+            <marker date="1509603147796" expanded="false" signature="831:842" ph=" { " />
+            <marker date="1509603147796" expanded="false" signature="858:864" ph=" }" />
+            <marker date="1509603147796" expanded="false" signature="910:921" ph=" { " />
+            <marker date="1509603147796" expanded="false" signature="946:952" ph=" }" />
+            <marker date="1509603147796" expanded="false" signature="983:994" ph=" { " />
+            <marker date="1509603147796" expanded="false" signature="1008:1014" ph=" }" />
+            <marker date="1509603147796" expanded="false" signature="1056:1067" ph=" { " />
+            <marker date="1509603147796" expanded="false" signature="1088:1094" ph=" }" />
+            <marker date="1509603147796" expanded="false" signature="1124:1135" ph=" { " />
+            <marker date="1509603147796" expanded="false" signature="1148:1154" ph=" }" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/conf/EmployeeMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <folding>
-            <marker date="1509545696391" expanded="true" signature="272:315" ph="select * fro... tbl_employee" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/conf/log4j.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/conf/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocm/atguigu/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="79" lean-forward="false" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/conf/mybatis-config.xml">
+    <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/conf/mybatis-config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" column="53" lean-forward="false" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
@@ -655,7 +768,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocm/atguigu/MyBatisStudy.java">
+    <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/MyBatisStudy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
@@ -663,7 +776,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/conf/log4j.xml">
+    <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/conf/log4j.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -671,7 +784,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocm/atguigu/test/MyBatisStudyTest.java">
+    <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/test/MyBatisStudyTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
@@ -681,7 +794,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/conf/log4j.xml">
+    <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/conf/log4j.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -689,18 +802,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocm/atguigu/MyBatisStudyTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/ocm/atguigu/MyBatisStudyTestTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/EmployeeMapper.xml" />
-    <entry file="file://$PROJECT_DIR$/src/ocm/atguigu/dao/EmployeeMapper.java">
+    <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/MyBatisStudyTest.java" />
+    <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/MyBatisStudyTestTest.java" />
+    <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/EmployeeMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="161">
+          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocm/atguigu/MyBatisStudy.java">
+    <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/MyBatisStudy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
@@ -708,47 +820,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/conf/manify.properties">
+    <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/dao/EmployeeMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocm/atguigu/test/MyBatisStudyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-184">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="66">
+          <caret line="9" column="44" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocm/atguigu/Employee.java">
+    <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/conf/EmployeeMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        <state relative-caret-position="197">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <marker date="1509545696391" expanded="true" signature="272:315" ph="select * fro... tbl_employee" />
+            <marker date="1509603147796" expanded="false" signature="706:717" ph=" { " />
+            <marker date="1509603147796" expanded="false" signature="727:733" ph=" }" />
+            <marker date="1509603147796" expanded="false" signature="768:779" ph=" { " />
+            <marker date="1509603147796" expanded="false" signature="792:798" ph=" }" />
+            <marker date="1509603147796" expanded="false" signature="831:842" ph=" { " />
+            <marker date="1509603147796" expanded="false" signature="858:864" ph=" }" />
+            <marker date="1509603147796" expanded="false" signature="910:921" ph=" { " />
+            <marker date="1509603147796" expanded="false" signature="946:952" ph=" }" />
+            <marker date="1509603147796" expanded="false" signature="983:994" ph=" { " />
+            <marker date="1509603147796" expanded="false" signature="1008:1014" ph=" }" />
+            <marker date="1509603147796" expanded="false" signature="1056:1067" ph=" { " />
+            <marker date="1509603147796" expanded="false" signature="1088:1094" ph=" }" />
+            <marker date="1509603147796" expanded="false" signature="1124:1135" ph=" { " />
+            <marker date="1509603147796" expanded="false" signature="1148:1154" ph=" }" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/conf/mybatis-config.xml">
+    <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/conf/mybatis-config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="38" />
+        <state relative-caret-position="22">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/conf/EmployeeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="68" lean-forward="true" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+          <folding>
+            <marker date="1509606014773" expanded="true" signature="286:329" ph="select * fro... tbl_employee" />
+            <marker date="1509606014773" expanded="true" signature="438:536" ph="INSERT INTO tbl_employee" />
+            <marker date="1509606014773" expanded="true" signature="608:710" ph="UPDATE tbl_e... " />
+            <marker date="1509606014773" expanded="true" signature="777:818" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day1101mybatis/src/ocm/atguigu/test/MyBatisStudyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -781,7 +913,6 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>servlet-api</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

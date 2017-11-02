@@ -6,10 +6,10 @@
 
    <properties  resource="conf/manify.properties"></properties>
     
-    <settings>
-        <setting name="mapUnderscoreToCamelCase" value="true"/>
-                       <!--mapUnderscoreToCamelCase-->
-    </settings>
+    <!--<settings>-->
+    <!--&lt;!&ndash;<setting name="mapUnderscoreToCamelCase" value="true"/>&ndash;&gt;-->
+    <!--&lt;!&ndash;mapUnderscoreToCamelCase&ndash;&gt;-->
+<!--</settings>-->
     <typeAliases>
         <!--<typeAlias type="ocm.atguigu.Employee" alias="emp"/>-->
        <package name="ocm.atguigu"/>
