@@ -1,6 +1,7 @@
 package ocm.atguigu;
 
 
+import ocm.atguigu.test.Department;
 import org.apache.ibatis.type.Alias;
 
 @Alias("emp")
@@ -9,15 +10,23 @@ public class Employee  {
    private String lastname;
    private String gender;
    private String email;
+    private Department dept;
 
-    public Employee(Integer id, String lastname, String gender, String email) {
+    public Department getDept() {
+        return dept;
+    }
+
+    public void setDept(Department dept) {
+        this.dept = dept;
+    }
+
+    public Employee(Integer id, String lastname, String gender, String email, Department dept) {
         this.id = id;
         this.lastname = lastname;
         this.gender = gender;
         this.email = email;
+        this.dept = dept;
     }
-
-
 
     @Override
     public String toString() {

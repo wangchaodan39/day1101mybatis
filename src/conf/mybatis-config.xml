@@ -27,6 +27,8 @@
         </environment>
     </environments>
     <mappers>
-        <mapper resource="conf/EmployeeMapper.xml"/>
+        <mapper resource="conf/EmployeeMapperPlus.xml"/>
     </mappers>
+
+
 </configuration>

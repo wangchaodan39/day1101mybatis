@@ -1,12 +1,9 @@
 <component name="libraryTable">
   <library name="log4j">
     <CLASSES>
-      <root url="jar://E:/BaiduNetdiskDownload/尚硅谷 佟刚 Mybatis视频教程/课件&amp;代码/代码/MyBatis_01_HelloWorld/lib/log4j.jar!/" />
-      <root url="jar://E:/BaiduNetdiskDownload/尚硅谷 佟刚 Mybatis视频教程/课件&amp;代码/代码/MyBatis_01_HelloWorld/lib/mybatis-3.4.1.jar!/" />
-      <root url="jar://E:/BaiduNetdiskDownload/尚硅谷 佟刚 Mybatis视频教程/课件&amp;代码/代码/MyBatis_01_HelloWorld/lib/mysql-connector-java-5.1.37-bin.jar!/" />
-      <root url="jar://E:/佟刚 Mybatis/课件&amp;代码/代码/MyBatis_01_HelloWorld/lib/log4j.jar!/" />
-      <root url="jar://E:/佟刚 Mybatis/课件&amp;代码/代码/MyBatis_01_HelloWorld/lib/mybatis-3.4.1.jar!/" />
-      <root url="jar://E:/佟刚 Mybatis/课件&amp;代码/代码/MyBatis_01_HelloWorld/lib/mysql-connector-java-5.1.37-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../BaiduNetdiskDownload/尚硅谷 佟刚 Mybatis视频教程/课件&amp;代码/代码/MyBatis_01_HelloWorld/lib/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../BaiduNetdiskDownload/尚硅谷 佟刚 Mybatis视频教程/课件&amp;代码/代码/MyBatis_01_HelloWorld/lib/mybatis-3.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../BaiduNetdiskDownload/尚硅谷 佟刚 Mybatis视频教程/课件&amp;代码/代码/MyBatis_01_HelloWorld/lib/mysql-connector-java-5.1.37-bin.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
